@@ -114,8 +114,7 @@ U-Net, TransU-Net).
 ## Sesiunea 11 Segmentarea Instanțelor
 1. Ce este segmentarea instanțelor? Concepte și definiții
 2. Mask R-CNN
-3. Mask DINO (https://paperswithcode.com/paper/mask-dino-towards-a-unified-
-transformer-based-1 )
+3. Mask DINO (https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1 )
 4. Segmentare modernă Segment Anything (SAM), Recognize Anything (RAM)
 5. Exemple practice: Exemple de segmentare folosind rețeaua Segment Anything (SAM)
 
