@@ -1,0 +1,10 @@
+torch -f https://download.pytorch.org/whl/cu118
+torchvision -f https://download.pytorch.org/whl/cu118
+timm
+opencv-python
+scikit-image
+pandas
+numpy
+polars
+seaborn
+streamlit
