@@ -3,6 +3,7 @@ torchvision -f https://download.pytorch.org/whl/cu118
 timm
 opencv-python
 scikit-image
+scikit-learn
 pandas
 numpy
 polars

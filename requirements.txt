@@ -3,6 +3,7 @@ torchvision
 timm
 opencv-python
 scikit-image
+scikit-learn
 pandas
 numpy
 polars
